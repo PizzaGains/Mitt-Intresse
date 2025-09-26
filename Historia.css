@@ -1,0 +1,56 @@
+.Header {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-size: 3vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+.Textruta {
+    background-color: grey;
+    color: white;
+    display: block;
+    flex: 75%;
+    border-radius: 20px;
+    margin-top: 90px;
+    margin-left: 80px;
+    margin-bottom: 90px;
+    border: 20px;
+    padding: 20px;
+    font-size: 3vh;
+    }
+
+    .Realbild {
+        width: 450px;
+        height: auto;
+        display: block;
+        margin-right: 10px;
+        flex: 25%;
+        margin-top: 400px;
+    }
+
+ .Ronaldo {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    *{
+        overflow-y: hidden;
+        overflow-x: hidden;
+    }
+
+    body{
+        background: url(1738426-konstgras-falt-gratis-fotona.jpg);
+        background-size: cover;
+    }

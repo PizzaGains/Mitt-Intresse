@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    overflow-y: hidden;
+    background: url(PN6XNMBFMRLEBNYPHZWZ5QZUK4Ny.jpg);
+    background-size: cover;
+}
+
+.Header {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-size: 3vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+.Sui {
+    display: flex;
+    justify-content: center;
+}
+
+*{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
